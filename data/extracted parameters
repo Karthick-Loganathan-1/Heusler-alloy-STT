@@ -1,0 +1,16 @@
+{
+  "material": "Co2MnSi",
+  "onsite_energy": {
+    "spin_up": -8.29,
+    "spin_down": -6.74,
+    "average": -7.51
+  },
+  "spin_splitting": -1.54,
+  "hopping_parameter": 25.45,
+  "bandwidth": {
+    "spin_up": 101.78,
+    "range": [-78.78, 24.02]
+  },
+  "fermi_level": 0.0,
+  "notes": "Values estimated from PDOS analysis. Units in eV."
+}
