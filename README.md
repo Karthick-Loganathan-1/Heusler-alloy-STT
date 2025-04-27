@@ -21,12 +21,6 @@ This project analyzes the spin-polarized electronic structure of the Co₂MnSi H
 
 ---
 
-## 📸 Results
-
-- ![PDOS plot](results/pdos_plot.png)
-
----
-
 ## 🧠 Credits
 
 Research under guidance of Dr. Banerjee, MAVENs Lab, SRMIST.
