@@ -1,10 +1,10 @@
-# Co₂MnSi Heusler Alloy – DFT & STT Simulation
+# Heusler Alloy – DFT & KWANT Simulation
 
-This project analyzes the spin-polarized electronic structure of the Co₂MnSi Heusler alloy using Quantum ESPRESSO and models spin transfer torque (STT) using NEGF-based simulations with Kwant.
+This project analyzes the spin-polarized electronic structure of various Heusler alloy using Quantum ESPRESSO and models spin transfer torque (STT) using NEGF-based simulations with Kwant.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `data/`: Raw PDOS data and extracted parameters
 - `scripts/`: Python scripts for analysis and Kwant simulation
@@ -13,7 +13,7 @@ This project analyzes the spin-polarized electronic structure of the Co₂MnSi H
 
 ---
 
-## 🧪 Methods Used
+##  Methods Used
 
 - DFT with Quantum ESPRESSO  
 - PDOS → Spin splitting, onsite energy, hopping `t` estimation  
